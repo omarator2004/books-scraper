@@ -83,6 +83,9 @@ Book ratings:
    jupyter notebook books_scraper.ipynb
    ```
 
+Or open directly in Google Colab:
+[https://colab.research.google.com/drive/17ZnLQoklud3hcNULCcWIPu5UtR5izrYP?usp=sharing](https://colab.research.google.com/drive/17ZnLQoklud3hcNULCcWIPu5UtR5izrYP?usp=sharing)
+
 ---
 
 ## 🔹 Dataset
