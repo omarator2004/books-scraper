@@ -34,10 +34,7 @@ This is an **end-to-end data project** where I scraped book data from [Books to 
 4. **Visualization**
 
    * Histogram of book prices.
-<img width="531" height="393" alt="image" src="https://github.com/user-attachments/assets/86f94dbe-4e1d-42ef-a45b-970072fd1e97" />
-
    * Bar chart of book ratings.
-<img width="540" height="388" alt="image" src="https://github.com/user-attachments/assets/47ad19b8-a1ea-4cb9-831f-64e18ed761f0" />
 
 ---
 
