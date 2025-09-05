@@ -57,9 +57,11 @@ This is an **end-to-end data project** where I scraped book data from [Books to 
 ## 🔹 Sample Visualizations
 
 Price distribution:
+
 ![Price Histogram](price_hist.png)
 
 Book ratings:
+
 ![Rating Counts](rating_counts.png)
 
 ---
